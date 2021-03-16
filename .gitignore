@@ -1,0 +1,7 @@
+*.class
+.project
+*.war
+*.swp
+.settings/
+*.lst
+target/
